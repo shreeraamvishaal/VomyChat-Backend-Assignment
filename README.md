@@ -15,8 +15,8 @@ A backend system for a Linktree/Bento.me-style platform with user authentication
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/linktree-backend.git
-cd linktree-backend
+git clone https://github.com/shreeraamvishaal/VomyChat-Backend-Assignment.git
+cd VomyChat-Backend-Assignment
 ```
 
 ### 2. Install Dependencies
