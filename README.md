@@ -9,7 +9,11 @@ A backend system for a Linktree/Bento.me-style platform with user authentication
 - **MongoDB + Mongoose** – Database & ORM  
 - **JWT** – Authentication  
 - **Bcrypt** – Password hashing  
-- **Jest + Supertest** – Testing  
+
+## Testing Tools  
+- **Thunder Client** – API testing
+- **Jest + Supertest** – Automated Testing  
+
 
 ## Installation
 
