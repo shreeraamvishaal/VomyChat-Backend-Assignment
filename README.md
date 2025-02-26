@@ -6,9 +6,11 @@ A backend system for a Linktree/Bento.me-style platform with user authentication
 ## Tech Stack
 - **Node.js** – Backend runtime  
 - **Express.js** – API framework  
-- **MongoDB + Mongoose** – Database & ORM  
 - **JWT** – Authentication  
 - **Bcrypt** – Password hashing  
+
+## Database
+- **MongoDB + Mongoose** – Database & ORM
 
 ## Testing Tools  
 - **Thunder Client** – API testing
